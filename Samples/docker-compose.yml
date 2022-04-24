@@ -1,0 +1,12 @@
+weba:
+  build:./Helloworld
+  expose:
+    -80
+webb:
+  build:./Helloworld
+  expose:
+    -80
+webc:
+  build:./Helloworld
+  expose:
+    -80
